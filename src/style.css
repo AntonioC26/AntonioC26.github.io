@@ -1,0 +1,29 @@
+body {
+  background-color: #bbb;
+  display: flex;
+  justify-content: center;
+}
+.square {
+  height: 420px;
+  width: 300px;
+  background-color: #fff;
+  justify-content: center;
+  border-radius: 25px;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  margin: 25px 25px 10px 25px;
+  border-radius: 25px;
+}
+
+h3 {
+  margin: 5px 5px 0px 5px;
+}
+
+p {
+  color: grey;
+  margin: 5px 25px 0px 25px;
+}
